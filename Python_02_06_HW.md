@@ -136,3 +136,16 @@ value = 1
 for i in range(N):
     print(value, end=" ")
     value = value / 2
+
+...
+
+## Задание 11
+...
+
+N = int(input("Введите N: "))
+
+value = 1
+
+for i in range(N):
+    print(value, end=" ")
+    value = value / 2
