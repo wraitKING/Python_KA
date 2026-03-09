@@ -4,9 +4,13 @@
 
 sum1 = 0
 for i in range(1012, 9639):
+
     if i % 7 == 0 and i % 10 == 1:
+    
         sum1 += i
+        
 print("Задача 1:", sum1)
+
 ...
 
 ## Задание 2
